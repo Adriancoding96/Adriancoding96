@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adriancoding96
-- 👀 I’m interested in coding and learning.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in programming and learning.
+- 🌱 I’m currently learning Rust.
 - 👨‍🎓 I´m studying at YrkesAkademin in sweden.
 - 📫 How to reach me - Email: adrian.nilsson.coding@gmail.com
 
