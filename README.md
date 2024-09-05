@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adriancoding96
 - 👀 I’m an aspiring backend developer.
-- 🌱 I’m currently learning Rust.
-- 👨‍🎓 I´m studying at YrkesAkademin in sweden.
+- 🌱 I’m currently learning AWS.
 - 📫 How to reach me - Email: adrian.nilsson.coding@gmail.com
 
 <!---
