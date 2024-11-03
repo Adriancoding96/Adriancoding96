@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @Adriancoding96
-- 👀 I’m an aspiring backend developer.
-- 🌱 I’m currently learning AWS.
-- 📫 How to reach me - Email: adrian.nilsson.coding@gmail.com
+<pre><code>
+              _      _                       
+     /\      | |    (_)                      
+    /  \   __| |_ __ _  __ _ _ __            
+   / /\ \ / _` | '__| |/ _` | '_ \           
+  / ____ \ (_| | |  | | (_| | | | |          
+ /_/____\_\__,_|_|_ |_|\__,_|_| |_|__    __  
+  / ____|        | (_)           / _ \  / /  
+ | |     ___   __| |_ _ __   __ | (_) |/ /_  
+ | |    / _ \ / _` | | '_ \ / _` \__, | '_ \ 
+ | |___| (_) | (_| | | | | | (_| | / /| (_) |
+  \_____\___/ \__,_|_|_| |_|\__, |/_/  \___/ 
+                             __/ |           
+                            |___/            
+</code></pre>
 
-<!---
-Adriancoding96/Adriancoding96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**About me**
+- Aspiiring backend developer.
+
+**Currently**
+- Learning cloud computing with AWS.
