@@ -14,8 +14,3 @@
                             |___/            
 </code></pre>
 
-**About me**
-- Aspiiring backend developer.
-
-**Currently**
-- Learning cloud computing and AWS.
