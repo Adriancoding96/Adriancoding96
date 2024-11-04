@@ -18,4 +18,4 @@
 - Aspiiring backend developer.
 
 **Currently**
-- Learning cloud computing with AWS.
+- Learning cloud computing and AWS.
